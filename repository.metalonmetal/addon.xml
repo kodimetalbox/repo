@@ -1,0 +1,15 @@
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.metalonmetal" name="Metal on Metal official Repo" version="1.1.0" provider-name="Sergi">
+	<extension point="xbmc.addon.repository" name="Metal on Metal official Repo">
+		<info compressed="false">https://raw.githubusercontent.com/kodimexico/miNuevoRepo/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/kodimexico/miNuevoRepo/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/kodimexico/miNuevoRepo/master</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Metal on Metal official Repo</summary>
+   		<description lang="en">Instala el addon metalonmetal.</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
